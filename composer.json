@@ -1,0 +1,21 @@
+{
+    "name": "bastas/logger",
+    "description": "PHP Event-Listener library",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^6.0",
+        "squizlabs/php_codesniffer": "2.*"
+    },
+    "authors": [
+        {
+            "name": "Nikitas Bastas",
+            "email": "nikitasbst@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bastas\\Event\\": "bastas-event/src"
+        }
+    }
+}
