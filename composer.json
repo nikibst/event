@@ -1,5 +1,5 @@
 {
-    "name": "bastas/logger",
+    "name": "bastas/event",
     "description": "PHP Event-Listener library",
     "type": "library",
     "require-dev": {
